@@ -9,6 +9,7 @@
     <title>Login</title>
 </head>
 <body>
+    <h1>LOGIN</h1>
     <form action="">
         
     </form>
