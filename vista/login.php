@@ -19,9 +19,7 @@
             <p><label for="pwd">Contraseña:</label> <input type="password" name="pass" id="pwd" required></p>
             <input type="submit" value="Enviar" >
             <input type="submit" value="Registrarte">
-
         </form>
-    </div>
-    
+    </div>    
 </body>
 </html>
